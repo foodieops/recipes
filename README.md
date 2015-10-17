@@ -10,9 +10,11 @@ We have tried to keep the layout as simple as possible. If you would like to mak
 
 ### How to contribute
 **where to add the recipe**
+
 If you should have any questions about where to drop a recipe have no fear, just open a PR against the root directory and we will merge and move it to where it belongs.
 
 **food allergy's**
+
 When possible we try to keep food allergy's in mind. To this effect if a recipe is safe for a specific food sensitivity listed below please include it in the recipe title, ex: **[NUT FREE] Molasses Cookies**.
 
 - nut free
@@ -25,4 +27,5 @@ If you have any question please don't add it and mention this in the PR. Several
 **NOTE**: Do to the nature of this project please use your own judgement when making a recipe with regards to any food sensitivities. We will try our best to ensure something is safe but we don't claim to be nutritional or medical personal and will accept no liability for any adverse reactions.
 
 **recipe format**
+
 In the root you will find a sample recipe, please follow that format. If your PR is not in that format we will ask you to put it into that format before merging. This is done as we will be converting each recipe to LaTex on the backend for proper typesetting and then building the repo into a pdf cookbook that will be made available for printing.
