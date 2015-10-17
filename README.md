@@ -28,4 +28,4 @@ If you have any question please don't add it and mention this in the PR. Several
 
 **recipe format**
 
-In the root you will find a sample recipe, please follow that format. If your PR is not in that format we will ask you to put it into that format before merging. This is done as we will be converting each recipe to LaTex on the backend for proper typesetting and then building the repo into a pdf cookbook that will be made available for printing.
+In the root you will find a sample recipe, please follow that format. If your PR is not in that format we will ask you to put it into that format before merging. This is done as we will be converting each recipe to LaTex on the backend for proper typesetting and then building the repo into a pdf cookbook that will be made available for printing for a small fee. 100% of any funds will go directly to a local foodbank to help feed those who many not be able to feed themselves.
